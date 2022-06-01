@@ -37,7 +37,7 @@
     "os-utils": "0.0.14",
     "querystring": "^0.2.0",
     "request": "^2.83.0",
-    "sharp": "^0.20.5",
+    "sharp": "^0.30.5",
     "sorted-object": "^2.0.1",
     "stringify-object": "^3.3.0",
     "underscore": "^1.8.3",
